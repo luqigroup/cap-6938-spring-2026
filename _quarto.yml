@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "CAP 6938"
+  title: "CAP 6938 (Spring 2026)"
   google-analytics: "G-VCVVD4KWRF"
   search: false
   favicon: files/UCF-LOGO-Stacked-BoldGold-square.png
@@ -15,9 +15,9 @@ website:
       - text: \[Made with Quarto\]
         href: https://quarto.org
       - text: \[Source\]
-        href: https://github.com/luqigroup/cap-6938
+        href: https://github.com/luqigroup/cap-6938-spring-2026
       - text: \[License\]
-        href: https://raw.githubusercontent.com/luqigroup/cap-6938/refs/heads/main/LICENSE
+        href: https://raw.githubusercontent.com/luqigroup/cap-6938-spring-2026/refs/heads/main/LICENSE
 
 format:
   html:
